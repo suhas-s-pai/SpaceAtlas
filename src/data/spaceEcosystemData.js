@@ -1,5 +1,5 @@
 // SPACE ATLAS Data Store - India's Space Software Ecosystem
-// Content compiled for Agnirva Internship Project Synthesis by Suhas Pai (Computer Science & Engineering)
+// Content compiled for Agnirva Internship Project Synthesis by Suhas S Pai (Computer Science & Engineering)
 
 export const ECOSYSTEM_LAYERS = [
   {

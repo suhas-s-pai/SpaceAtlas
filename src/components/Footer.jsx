@@ -39,7 +39,7 @@ export default function Footer() {
             </div>
           </div>
 
-          {/* Right: Personal Portfolio Connection Section (Suhas Pai) */}
+          {/* Right: Personal Portfolio Connection Section (Suhas S Pai) */}
           <div className="lg:col-span-6 p-6 rounded-2xl bg-[#050914] border border-cyan-500/30 shadow-xl hud-border">
             <div className="text-[10px] font-mono uppercase tracking-wider text-cyan-400 mb-2 font-bold flex items-center gap-1.5">
               <Terminal className="w-3.5 h-3.5" />
@@ -47,7 +47,7 @@ export default function Footer() {
             </div>
 
             <h3 className="text-xl font-bold font-mono text-white mb-1">
-              Suhas Pai
+              Suhas S Pai
             </h3>
 
             <p className="text-xs text-cyan-300 font-mono mb-3">
@@ -93,7 +93,7 @@ export default function Footer() {
         {/* Bottom Copyright & Disclaimer */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-[11px] text-gray-400 font-mono gap-4">
           <p>© {new Date().getFullYear()} SPACE ATLAS • Agnirva Software Internship Synthesis Project.</p>
-          <p className="text-gray-400">Designed & Engineered by Suhas Pai (CS&E)</p>
+          <p className="text-gray-400">Designed & Engineered by Suhas S Pai (CS&E)</p>
         </div>
 
       </div>
